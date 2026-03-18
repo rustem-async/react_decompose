@@ -9,11 +9,12 @@
   margin: 0;
 
   font-size: 400%;
+  display: block;
   line-height: 1;
 
-  display: block;
   padding-top: calc(50vh - 20pt);
-  text-align: center;
 
   font-weight: 700;
+
+  text-align: center;
 }
